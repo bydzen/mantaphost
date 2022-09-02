@@ -2,7 +2,8 @@
   Author      : Sultan Kautsar
   NIM         : 1303194010
   Class       : IT-43-03
-  Description : Project web design front-end dengan Bootsrap 5
+  Description : Project web design front-end untuk memenuhi Ujian Tengah Semester
+                mata kuliah Pemrograman Web.
 */
 
 // Menginisiasi animate on scroll
