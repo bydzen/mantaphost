@@ -15,5 +15,6 @@ MantapHost adalah project website yang bergerak di sektor layanan web hosting. P
 1. Bootstrap
 2. Animate.style
 3. Animate On Scroll (AOS)
+4. Other
 
 ##### Thank You! Hope you like it. 😁
