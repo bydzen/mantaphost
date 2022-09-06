@@ -11,6 +11,7 @@ MantapHost adalah project website yang bergerak di sektor layanan web hosting. P
 2. [sultankautsar.com/project/mantaphost](https://sultankautsar.com/project/mantaphost)
 
 ### Technology
+0. Vanilla
 1. Bootstrap
 2. Animate.style
 3. Animate On Scroll (AOS)
